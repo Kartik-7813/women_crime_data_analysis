@@ -48,7 +48,7 @@ To gain insights, various visualizations were generated:
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/women_crime_data_analysis.git
+   git clone https://github.com/Kartik-7813/women_crime_data_analysis.git
    ```
 2. Navigate to the project folder:
    ```sh
